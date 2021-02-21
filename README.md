@@ -1,7 +1,8 @@
-# WE2UP-ERP
+# WE2UP-ERP requirements
 1-download and install  7zip = https://www.7-zip.org/download.html
+
 2-download and install (Git) = https://git-scm.com/downloads
-WE2UP-ERP\
+
 
 # Installation 
 1. $ git clone https://github.com/true-Business-software/WE2UP-ERP.git 
