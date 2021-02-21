@@ -1,0 +1,8 @@
+[2021-01-30 00:40:17] live.ERROR: Illegal length modifier specified 'f' in s[np]printf call {"userId":72,"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Illegal length modifier specified 'f' in s[np]printf call at /home/beklek5/original2.we2up.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122)
+[stacktrace]
+#0 {main}
+"} 
+[2021-01-30 01:09:40] live.ERROR: Illegal length modifier specified 'f' in s[np]printf call {"userId":37,"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Illegal length modifier specified 'f' in s[np]printf call at /home/beklek5/original2.we2up.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122)
+[stacktrace]
+#0 {main}
+"} 
