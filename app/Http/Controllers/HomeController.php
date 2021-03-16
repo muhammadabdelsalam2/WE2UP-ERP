@@ -320,7 +320,7 @@ class HomeController extends Controller
                             ->get();
 
 
-        return view('home.index', compact('transaction_sub_type','transactions','','expenses','date_filters', 'expense_chart','sells_chart_1', 'sells_chart_2', 'widgets', 'all_locations','types', 'customer_groups', 'selected_type','price_groups'));
+        return view('home.index', compact('transaction_sub_type','transactions','expenses','date_filters', 'expense_chart','sells_chart_1', 'sells_chart_2', 'widgets', 'all_locations','types', 'customer_groups', 'selected_type','price_groups'));
     }
 
     /**
