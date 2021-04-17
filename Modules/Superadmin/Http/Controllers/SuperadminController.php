@@ -1,25 +1,19 @@
 <?php
-
 namespace Modules\Superadmin\Http\Controllers;
-
 use \Notification;
 use App\Business;
 use App\System;
 use App\Utils\ModuleUtil;
-
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\DB;
 use Modules\Superadmin\Entities\Package;
-
 use Modules\Superadmin\Entities\Subscription;
 use Modules\Superadmin\Notifications\SubscriptionOfflinePaymentActivationConfirmation;
-
 use Pesapal;
 use Razorpay\Api\Api;
 use Srmklive\PayPal\Services\ExpressCheckout;
 use Stripe\Charge;
-
 use Stripe\Customer;
 use Stripe\Stripe;
 
